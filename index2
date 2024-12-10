@@ -1,13 +1,8 @@
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 #DEVELOPED_BY_JITENDRA_PRO_DEV
-#AUTHOR:-JITENDRA_KUMAR
+#AUTHOR:- temp
 #DATE:- Sunday 25th of August 2024 08:47:14 AM
 
-      #     ██  ██ ████████ ███████ ███   ██ ██████  ██████   █████        ██   ██ ██    ██ ███    ███  █████  ██████
-      #     ██  ██    ██    ██      ████  ██ ██   ██ ██   ██ ██   ██       ██  ██  ██    ██ ████  ████ ██   ██ ██   ██
-      #     ██  ██    ██    █████   ██ ██ ██ ██   ██ ██████  ███████ █████ █████   ██    ██ ██ ████ ██ ███████ ██████
-      #██   ██  ██    ██    ██      ██  ████ ██   ██ ██   ██ ██   ██       ██  ██  ██    ██ ██  ██  ██ ██   ██ ██   ██
-      # █████   ██    ██    ███████ ██   ███ ██████  ██   ██ ██   ██       ██   ██  ██████  ██      ██ ██   ██ ██   ██
 #EXTINF:-1 tvg-id="142" tvg-name="BBC World News" tvg-type="News" group-title="News" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_World_News.png",BBC World News
 http://192.168.29.196:8080/JioTV/live.php?id=142&key=JITENDRAUNATTI&e=.m3u8
 
